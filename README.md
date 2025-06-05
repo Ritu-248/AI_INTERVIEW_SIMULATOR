@@ -5,11 +5,12 @@ This is a smart, interactive **AI-based Interview Simulator** built using **Stre
 
 
 ## 🚀 Demo
+![Screenshot 2025-06-05 143801](https://github.com/user-attachments/assets/7c7e47b6-261e-4bec-92ad-9624ca72bcef)
 
+![Screenshot 2025-06-05 153310](https://github.com/user-attachments/assets/92479365-9f9f-479c-8147-8faa6dacff53)
 
 ---![Screenshot 2025-06-05 153447](https://github.com/user-attachments/assets/6de557d4-eac6-4bb3-81f0-728ea37397c0)
-![Screenshot 2025-06-05 143801](https://github.com/user-attachments/assets/7c7e47b6-261e-4bec-92ad-9624ca72bcef)
-![Screenshot 2025-06-05 153310](https://github.com/user-attachments/assets/92479365-9f9f-479c-8147-8faa6dacff53)
+
 
 [interview_results.csv](https://github.com/user-attachments/files/20606970/interview_results.csv)
 [Uploading AI INTERVIEW SIMULATOR.zip…]()
